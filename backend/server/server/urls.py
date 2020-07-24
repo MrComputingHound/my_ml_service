@@ -8,4 +8,4 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 ]
 
-urlpatterns += endpoints_urlpatterns
+# urlpatterns += endpoints_urlpatterns
