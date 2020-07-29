@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deploy Machine Learning Models with Django
 
 This is a source code from the tutorial available at [deploymachinelearning.com](https://deploymachinelearning.com)
@@ -20,3 +21,7 @@ In the `backend` directory there is Django application.
 
 In the `docker` directory there are dockerfiles for running the service in the container.
 
+=======
+# my_ml_service
+My Machine Learning Web Service
+>>>>>>> 25efa6c5948f5addbb8771c02f9543ff39e888a0
